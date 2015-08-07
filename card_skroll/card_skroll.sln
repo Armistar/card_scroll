@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5D09E6EE-8963-C443-84A7-78C527F71ACF}") = "card_skroll", "Assembly-CSharp.csproj", "{0E14259A-0705-6FC1-E942-8EA27B44E79D}"
+EndProject
+Project("{5D09E6EE-8963-C443-84A7-78C527F71ACF}") = "card_skroll", "Assembly-CSharp-Editor.csproj", "{B7D455CB-5109-8719-6FF4-9CE06F7AD7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E14259A-0705-6FC1-E942-8EA27B44E79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E14259A-0705-6FC1-E942-8EA27B44E79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E14259A-0705-6FC1-E942-8EA27B44E79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E14259A-0705-6FC1-E942-8EA27B44E79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D455CB-5109-8719-6FF4-9CE06F7AD7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D455CB-5109-8719-6FF4-9CE06F7AD7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D455CB-5109-8719-6FF4-9CE06F7AD7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D455CB-5109-8719-6FF4-9CE06F7AD7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+						GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
